@@ -9,7 +9,7 @@ import matplotlib
 matplotlib.use("Agg") # This setting is necessary for running on remote machines
 import matplotlib.pyplot as plt
 
-# TODO: Copy from Q3c
+# TODO: Copy from Q2b
 x = 
 y = 
 

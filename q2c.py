@@ -11,10 +11,10 @@ import matplotlib.pyplot as plt
 
 ############ START STUDENT CODE ############
 
-# TODO: Copy from Q3a
+# TODO: Copy from Q2b
 x = 
 
-# TODO: Copy from Q3a
+# TODO: Copy from Q2b
 y = 
 
 # TODO: Randomly initialize the weights using torch.randn. Don't pass a dtype. Set requires_grad=True. 
